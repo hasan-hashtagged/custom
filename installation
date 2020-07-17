@@ -1,0 +1,11 @@
+install i3
+clone i3-gaps from github
+install rofi from apt repo
+Download Fontawesome, Unzip and copy the required otf to ~/.font/
+Install pavucontrol
+install fonts from github by moving ttf files.
+Install compton (apt)
+Install lxappearance (apt)
+Install feh (apt)
+Install arc theme from github.
+Install icon theme
